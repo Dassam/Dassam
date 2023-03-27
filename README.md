@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hello and welcome, 👋 My name is Yaan!
 
-<!--
-**Dassam/Dassam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🇪🇪 I live in Tallinn, Estonia.
+- 🐾 I'm a software developer.
+- 📱 Spend a majority of my time coding in Swift & Python
+- 🚀 Working on personal game and science projects.
+- 📫 You can shoot me an email at [yaanestiland@gmail.com](mailto:yaanestiland@gmail.com).
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### My CV: [Yaan Prokofiev](https://docs.google.com/document/d/1F2KEx5umxRWgxbZwP3Y4QociiWGzRWpVgvPNpZBecLA/edit?usp=sharing)
+
+________________________________________
+
+## 🛠 My fancy badge area
+
+![Swift](https://img.shields.io/badge/swift-de5d43?&style=for-the-badge&logo=swift&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+
+## 🤝 Connect with me
+
+ [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaan-prokofjev/) 
+ [![Telegram](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=)](https://t.me/YSaanich)
+ [![Youtube](https://img.shields.io/static/v1?style=for-the-badge&message=Youtube&color=FFFFFF&logo=Youtube&logoColor=ff5b4f&label=)](https://www.youtube.com/channel/UCZoLCgIoA1eHwjM4XFWabJw)
