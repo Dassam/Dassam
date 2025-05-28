@@ -7,8 +7,6 @@
 - 📫 You can shoot me an email at [yaanestiland@gmail.com](mailto:yaanestiland@gmail.com).
 
 
-#### My CV: [Yaan Prokofiev](https://docs.google.com/document/d/1F2KEx5umxRWgxbZwP3Y4QociiWGzRWpVgvPNpZBecLA/edit?usp=sharing)
-
 ________________________________________
 
 ## 🛠 My fancy badge area
